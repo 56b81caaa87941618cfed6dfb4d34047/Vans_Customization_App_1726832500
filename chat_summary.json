@@ -1,5 +1,11 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button with text 'Free'\", \"checked\": true}, {\"feature\": \"Include a confirmation popup when the button is pressed\", \"checked\": false}, {\"feature\": \"Change button color based on user interactions\", \"checked\": false}, {\"feature\": \"Add an icon next to the button text\", \"checked\": false}, {\"feature\": \"Animate the button on hover\", \"checked\": false}], \"input_token_count\": 243, \"output_token_count\": 97, \"time_taken\": \"0:00:01.575056\"}",
+        "timestamp": "20092024114234",
+        "message_id": "guest20092024114223"
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like to position the 'Free' button within the app?\", \"option1\": \"At the top of the page\", \"option2\": \"At the bottom of the page\"}, {\"question 2\": \"What color scheme should the 'Free' button follow to match the app's design?\", \"option1\": \"Primary color of the app\", \"option2\": \"A contrasting color for visibility\"}], \"input_token_count\": 289, \"output_token_count\": 98, \"time_taken\": \"0:00:02.516495\"}",
         "timestamp": "20092024114230",
