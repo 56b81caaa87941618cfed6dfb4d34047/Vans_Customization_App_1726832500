@@ -22,6 +22,9 @@ INSTRUCTION: - To the right: There is an image relevant to the app.
                     <div id="hero-button-2-container" class="flex">
                         <a id="hero-button-2" href="https://www.figma.com/community/file/1125744163617429490" class="flex-1 items-center justify-center w-full px-5 py-3 mb-2 mr-2 text-sm font-medium text-gray-900 bg-white border border-gray-200 rounded-lg sm:w-auto focus:outline-none hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">Explore Gallery</a>
                     </div>
+                    <div id="hero-button-3-container" class="flex">
+                        <a id="hero-button-3" href="#" class="flex-1 items-center justify-center w-full px-5 py-3 mb-2 mr-2 text-sm font-medium text-white bg-blue-600 border border-blue-600 rounded-lg sm:w-auto focus:outline-none hover:bg-blue-700 focus:ring-4 focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Free</a>
+                    </div>
                 </div>
             </div>
             <!-- Right section containing image -->
