@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like to position the 'Free' button within the app?\", \"option1\": \"At the top of the page\", \"option2\": \"At the bottom of the page\"}, {\"question 2\": \"What color scheme should the 'Free' button follow to match the app's design?\", \"option1\": \"Primary color of the app\", \"option2\": \"A contrasting color for visibility\"}], \"input_token_count\": 289, \"output_token_count\": 98, \"time_taken\": \"0:00:02.516495\"}",
+        "message_id": "guest20092024114223",
+        "timestamp": "20092024114230",
+        "component_file_name": "simple_hero_component_1726832503",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'm adding a button with the text 'Free'.",
         "message_id": "guest20092024114223",
