@@ -1,5 +1,11 @@
 [
     {
+        "role": "user",
+        "content": "add a button with text Free",
+        "timestamp": "20092024114224",
+        "message_id": "guest20092024114223"
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
